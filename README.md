@@ -4,14 +4,8 @@
 
 ### Content in this directory
 
-### 1. Data analysis scripts for:
-#### - WRF-CMAQ output for all conducted simulations
-#### - Health impact assessment
-#### - Environmental Justice analysis
-### 
+### 1. Data analysis scripts for this study can be found in the Camilleri-et-al-2022_WRFCMAQ-eHDVstudy repository within NU-CCRG.
 
 ### 2. Energy dispatch algorithm:
-#### - Algorithm script
-#### - CONUS shape files
-#### - NERC shape files
+#### - eAT Algorithm script
 #### - Associated data
